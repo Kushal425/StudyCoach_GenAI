@@ -7,6 +7,8 @@
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Predictive_ML-yellow)
 ![Streamlit](https://img.shields.io/badge/Streamlit-UI-red)
 
+**🌐 Live Demo:** [https://studycoachgenai.streamlit.app/](https://studycoachgenai.streamlit.app/)
+
 ## 📖 Overview
 
 This project is a full-stack AI application designed to support students through data-driven insights and interactive AI coaching. It combines **two core milestones** into a single, cohesive platform:
@@ -73,6 +75,8 @@ streamlit run app.py
 6. **`rag_setup.py`** retrieves relevant vector chunks from ChromaDB and returns them to the agent, which synthesizes a final personalized response.
 
 ## 🌐 Deployment
+
+**The live application is deployed here:** [https://studycoachgenai.streamlit.app/](https://studycoachgenai.streamlit.app/)
 
 This project is built to be easily deployed to platforms like **Streamlit Community Cloud** or **Hugging Face Spaces**.
 
